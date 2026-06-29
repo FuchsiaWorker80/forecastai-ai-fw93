@@ -1,4 +1,4 @@
-# 
+# Lightweight ForecastAI script. Download and install with detailed-docs and scalable — fast, secure, and easy to use.
 
 
 
